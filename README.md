@@ -1,3 +1,4 @@
 # ubiquitous-octo-potato
 
-Here are eight ubiquitous potatoes.
+1. Here are eight ubiquitous potatoes.
+2. Here are eight ubiquitous potatoes.
